@@ -8,4 +8,4 @@ simple quiz app for Compose Multiplatform testing. App is built with Kotlin and 
 - Kotlinx Serialization
 
 ## App Preview
-![ezgif com-video-to-gif](https://github.com/luukitooo/Quiz-iOS-Android/assets/107555010/4a5fee12-72ea-4cbc-9764-096c89402ff7)
+![preview gif](https://github.com/luukitooo/Quiz-iOS-Android/assets/107555010/4a5fee12-72ea-4cbc-9764-096c89402ff7)
